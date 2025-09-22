@@ -1,0 +1,29 @@
+C:\Users\rippe\source\repos\EscapeGame\bin\Debug\net8.0\EscapeGame.exe
+C:\Users\rippe\source\repos\EscapeGame\bin\Debug\net8.0\EscapeGame.deps.json
+C:\Users\rippe\source\repos\EscapeGame\bin\Debug\net8.0\EscapeGame.runtimeconfig.json
+C:\Users\rippe\source\repos\EscapeGame\bin\Debug\net8.0\EscapeGame.dll
+C:\Users\rippe\source\repos\EscapeGame\bin\Debug\net8.0\EscapeGame.pdb
+C:\Users\rippe\source\repos\EscapeGame\obj\Debug\net8.0\EscapeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rippe\source\repos\EscapeGame\obj\Debug\net8.0\EscapeGame.AssemblyInfoInputs.cache
+C:\Users\rippe\source\repos\EscapeGame\obj\Debug\net8.0\EscapeGame.AssemblyInfo.cs
+C:\Users\rippe\source\repos\EscapeGame\obj\Debug\net8.0\EscapeGame.csproj.CoreCompileInputs.cache
+C:\Users\rippe\source\repos\EscapeGame\obj\Debug\net8.0\EscapeGame.dll
+C:\Users\rippe\source\repos\EscapeGame\obj\Debug\net8.0\refint\EscapeGame.dll
+C:\Users\rippe\source\repos\EscapeGame\obj\Debug\net8.0\EscapeGame.pdb
+C:\Users\rippe\source\repos\EscapeGame\obj\Debug\net8.0\EscapeGame.genruntimeconfig.cache
+C:\Users\rippe\source\repos\EscapeGame\obj\Debug\net8.0\ref\EscapeGame.dll
+C:\Users\rippe\OneDrive\Рабочий стол\EscapeGame\bin\Debug\net8.0\EscapeGame.exe
+C:\Users\rippe\OneDrive\Рабочий стол\EscapeGame\bin\Debug\net8.0\EscapeGame.deps.json
+C:\Users\rippe\OneDrive\Рабочий стол\EscapeGame\bin\Debug\net8.0\EscapeGame.runtimeconfig.json
+C:\Users\rippe\OneDrive\Рабочий стол\EscapeGame\bin\Debug\net8.0\EscapeGame.dll
+C:\Users\rippe\OneDrive\Рабочий стол\EscapeGame\bin\Debug\net8.0\EscapeGame.pdb
+C:\Users\rippe\OneDrive\Рабочий стол\EscapeGame\obj\Debug\net8.0\EscapeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rippe\OneDrive\Рабочий стол\EscapeGame\obj\Debug\net8.0\EscapeGame.AssemblyInfoInputs.cache
+C:\Users\rippe\OneDrive\Рабочий стол\EscapeGame\obj\Debug\net8.0\EscapeGame.AssemblyInfo.cs
+C:\Users\rippe\OneDrive\Рабочий стол\EscapeGame\obj\Debug\net8.0\EscapeGame.csproj.CoreCompileInputs.cache
+C:\Users\rippe\OneDrive\Рабочий стол\EscapeGame\obj\Debug\net8.0\EscapeGame.sourcelink.json
+C:\Users\rippe\OneDrive\Рабочий стол\EscapeGame\obj\Debug\net8.0\EscapeGame.dll
+C:\Users\rippe\OneDrive\Рабочий стол\EscapeGame\obj\Debug\net8.0\refint\EscapeGame.dll
+C:\Users\rippe\OneDrive\Рабочий стол\EscapeGame\obj\Debug\net8.0\EscapeGame.pdb
+C:\Users\rippe\OneDrive\Рабочий стол\EscapeGame\obj\Debug\net8.0\EscapeGame.genruntimeconfig.cache
+C:\Users\rippe\OneDrive\Рабочий стол\EscapeGame\obj\Debug\net8.0\ref\EscapeGame.dll
