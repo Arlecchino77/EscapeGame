@@ -21,3 +21,5 @@
 
 ## Как установить?
 Скачиваете код и открываете его в Microsoft Visual Studio 2022 или Microsoft Visual Studio Code
+
+## АЛАБУГА
